@@ -1,5 +1,5 @@
 # Linkedin-or-Any-ResumeScreener-AI
-AI-powered Resume Screening Tool with NLP + ML ranking, interactive GUI, analytics dashboard, and export-ready results. Simplifies candidate evaluation for recruiters and HR teams.
+AI-powered Resume Screening Tool by Usman with NLP + ML ranking, interactive GUI, analytics dashboard, and export-ready results. Simplifies candidate evaluation for recruiters and HR teams.
 
 # ✨ ResumeScreener AI - Fixed & Enhanced Version
 
